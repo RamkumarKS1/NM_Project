@@ -36,3 +36,7 @@ The content of the chatbot is stored in Watson Assistant, a cloud-based service 
 Watson Assistant: 
 
    This is the main service that powers the chatbot’s conversational interface. It provides features such as skills, intents, entities, variables, slots, digressions, webhooks, integrations, and analytics to enable users to create and manage chatbots.
+
+IBM Cloud:
+
+  This is the cloud platform that hosts Watson Assistant and other services for the chatbot project. It provides features such as security, scalability, reliability, and monitoring for cloud applications.
