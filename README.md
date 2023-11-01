@@ -1,5 +1,5 @@
 # NM_Project
-# How to navigate to our GUIDE CHATBOT page on Facebook:
+# How to navigate to our chatbot "GUIDE BOT" page on Facebook:
 
 1. Open Facebook: Go to the Facebook website or open the Facebook app on your mobile device.
 
